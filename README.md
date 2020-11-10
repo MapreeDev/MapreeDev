@@ -8,4 +8,4 @@ Atualmente, tenho varios projetos, mais dentre eles um deles se destaca que é c
 
 Criador do **Mapree's bot** & **Mapree's music** 
   
-[SERVIDOR DO DISCORD](https://discord.gg/AGmA5Gv)
+- [SERVIDOR DO DISCORD](https://discord.gg/AGmA5Gv)
