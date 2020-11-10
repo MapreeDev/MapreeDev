@@ -1,5 +1,10 @@
 # Mapree Dev
 
-<h1> TESTE </h1>
+- Projetos
 
+Atualmente, tenho varios projetos, mais dentre eles um deles se destaca que é criar uma **waifu virtual** com **PY**
 
+- Bot Creator
+
+Criador do **Mapree's bot** & **Mapree's music** 
+  
