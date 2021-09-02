@@ -1,11 +1,8 @@
-# Mapree Dev
+# Mapree
 
 - Projetos
 
-Atualmente, tenho varios projetos, mais dentre eles um deles se destaca que é criar uma **waifu virtual** com **PY**
+🐔 - GRANJERO **PVP** | https://discord.gg/unTGY5vnK3
 
-- Bot Creator
+💻 - MAPREE **DEV** | https://discord.gg/AGmA5Gv
 
-Criador do **Mapree's bot** & **Mapree's music** 
-  
-- [SERVIDOR DO DISCORD](https://discord.gg/AGmA5Gv)
