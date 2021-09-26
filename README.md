@@ -6,7 +6,7 @@
 
 💻 - MAPREE **DEV** | https://discord.gg/AGmA5Gv
 
-👾 - DETROIT **CITY** | https://discord.gg/4N5fcnGJkt
+🌴 - URCA **CITY** | https://discord.gg/Bry5avFehX
 
 - Github stats
 
