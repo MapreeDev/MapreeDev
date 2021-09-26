@@ -8,6 +8,11 @@
 
 🌴 - URCA **CITY** | https://discord.gg/Bry5avFehX
 
-- Github stats
+- Estatísticas
 
-![Mapree GitHub stats](https://github-readme-stats.vercel.app/api?username=mapreedev&show_icons=true&theme=radical)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=mapreedev&show_icons=true&theme=radical)
+
+- Linguagens mais usadas
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mapreedev&layout=compact)
+
