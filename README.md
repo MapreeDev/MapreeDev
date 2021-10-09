@@ -2,8 +2,6 @@
 
 - Projetos
 
-🐔 - GRANJERO **PVP** | https://discord.gg/unTGY5vnK3
-
 💻 - MAPREE **DEV** | https://discord.gg/AGmA5Gv
 
 🌴 - URCA **CITY** | https://discord.gg/Bry5avFehX
