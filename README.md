@@ -17,6 +17,7 @@
 ![firebasefirestore](https://img.shields.io/badge/-Firebase&nbsp;Firestore-2d333b?style=for-the-badge&logo=firebase)
 ![firebaserealtime](https://img.shields.io/badge/-Firebase&nbsp;Realtime&nbsp;Database-2d333b?style=for-the-badge&logo=firebase)
 ![lua](https://img.shields.io/badge/-Lua-2d333b?style=for-the-badge&logo=lua)
+![prisma](https://img.shields.io/badge/-Prisma-2d333b?style=for-the-badge&logo=prisma)
 
 ## Social Links
 
