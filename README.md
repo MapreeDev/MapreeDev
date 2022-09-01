@@ -18,6 +18,10 @@
 ![firebaserealtime](https://img.shields.io/badge/-Firebase&nbsp;Realtime&nbsp;Database-2d333b?style=for-the-badge&logo=firebase)
 ![lua](https://img.shields.io/badge/-Lua-2d333b?style=for-the-badge&logo=lua)
 ![prisma](https://img.shields.io/badge/-Prisma-2d333b?style=for-the-badge&logo=prisma)
+![expressjs](https://img.shields.io/badge/-express.js-2d333b?style=for-the-badge&logo=express)
+![vscode](https://img.shields.io/badge/-VS%20CODE-2d333b?style=for-the-badge&logo=visualstudiocode)
+![git](https://img.shields.io/badge/-Git-2d333b?style=for-the-badge&logo=git)
+
 
 ## Social Links
 
@@ -27,6 +31,12 @@
   </a>
   <a href="https://discord.gg/AGmA5Gv" target="_blank">
      <img src="https://img.shields.io/badge/-Discord-2d333b?style=for-the-badge&logo=discord"/>
+  </a>
+  <a href="https://www.instagram.com/mapreedev/" target="_blank">
+     <img src="https://img.shields.io/badge/-instagram-2d333b?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="https://portfolio.mapree.com.br/" target="_blank">
+     <img src="https://img.shields.io/badge/-portfolio-2d333b?style=for-the-badge"/>
   </a>
 </p>
 
