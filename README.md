@@ -1,6 +1,8 @@
 ## Projects
 
 💻 - MAPREE **DEV** | https://discord.gg/AGmA5Gv
+</br>
+🔫 - GRANJERO **PVP** | https://discord.gg/DPvmQZ8M96
 
 ## Tech Stack
 
