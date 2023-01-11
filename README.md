@@ -22,7 +22,7 @@
 ![prisma](https://img.shields.io/badge/-Prisma-2d333b?style=for-the-badge&logo=prisma)
 ![expressjs](https://img.shields.io/badge/-express.js-2d333b?style=for-the-badge&logo=express)
 ![vscode](https://img.shields.io/badge/-VS%20CODE-2d333b?style=for-the-badge&logo=visualstudiocode)
-![git](https://img.shields.io/badge/-Git-2d333b?style=for-the-badge&logo=git)
+![lerna](https://img.shields.io/badge/-Lerna-2d333b?style=for-the-badge&logo=lerna)
 
 
 ## Social Links
