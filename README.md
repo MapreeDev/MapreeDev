@@ -20,10 +20,11 @@
 ![lua](https://img.shields.io/badge/-Lua-2d333b?style=for-the-badge&logo=lua)
 ![prisma](https://img.shields.io/badge/-Prisma-2d333b?style=for-the-badge&logo=prisma)
 ![expressjs](https://img.shields.io/badge/-express.js-2d333b?style=for-the-badge&logo=express)
-![vscode](https://img.shields.io/badge/-VS%20CODE-2d333b?style=for-the-badge&logo=visualstudiocode)
 ![lerna](https://img.shields.io/badge/-Lerna-2d333b?style=for-the-badge&logo=lerna)
 ![postgresql](https://img.shields.io/badge/-PostgreSQL-2d333b?style=for-the-badge&logo=postgresql)
 ![redis](https://img.shields.io/badge/-Redis-2d333b?style=for-the-badge&logo=redis)
+![storybook](https://img.shields.io/badge/-Storybook-2d333b?style=for-the-badge&logo=storybook)
+![styledcomponents](https://img.shields.io/badge/-Styled%20Components-2d333b?style=for-the-badge&logo=styled-components)
 
 
 ## Social Links
