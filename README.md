@@ -1,6 +1,6 @@
 ## Projects
 
-💻 - MAPREE **DEV** | https://discord.gg/AGmA5Gv
+💻 - MAPREE **DEV** | https://mapree.dev
 </br>
 🔫 - GRANJERO **PVP** | https://discord.gg/DPvmQZ8M96
 
