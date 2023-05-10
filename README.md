@@ -25,7 +25,11 @@
 ![redis](https://img.shields.io/badge/-Redis-2d333b?style=for-the-badge&logo=redis)
 ![storybook](https://img.shields.io/badge/-Storybook-2d333b?style=for-the-badge&logo=storybook)
 ![styledcomponents](https://img.shields.io/badge/-Styled%20Components-2d333b?style=for-the-badge&logo=styled-components)
-
+![vitest](https://img.shields.io/badge/-Vitest-2d333b?style=for-the-badge&logo=vitest)
+![jest](https://img.shields.io/badge/-Jest-2d333b?style=for-the-badge&logo=jest)
+![esbuild](https://img.shields.io/badge/-ESBuild-2d333b?style=for-the-badge&logo=esbuild)
+![vite](https://img.shields.io/badge/-Vite-2d333b?style=for-the-badge&logo=vite)
+![githubactions](https://img.shields.io/badge/-Github%20Actions-2d333b?style=for-the-badge&logo=github-actions)
 
 ## Social Links
 
