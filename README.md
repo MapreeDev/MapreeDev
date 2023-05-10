@@ -31,6 +31,9 @@
 ![vite](https://img.shields.io/badge/-Vite-2d333b?style=for-the-badge&logo=vite)
 ![githubactions](https://img.shields.io/badge/-Github%20Actions-2d333b?style=for-the-badge&logo=github-actions)
 ![expo](https://img.shields.io/badge/-Expo-2d333b?style=for-the-badge&logo=expo)
+![vercel](https://img.shields.io/badge/-Vercel-2d333b?style=for-the-badge&logo=vercel)
+![render](https://img.shields.io/badge/-Render-2d333b?style=for-the-badge&logo=render)
+![supabase](https://img.shields.io/badge/-Supabase-2d333b?style=for-the-badge&logo=supabase)
 
 ## Social Links
 
