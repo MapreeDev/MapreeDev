@@ -1,8 +1,10 @@
 ## Projects
 
-💻 - MAPREE **DEV** | https://mapree.dev
+[MAPREE **DEV**](https://mapree.dev)
 </br>
-🔫 - GRANJERO **PVP** | https://discord.gg/DPvmQZ8M96
+[GRANJERO **PVP**](https://discord.gg/DPvmQZ8M96)
+</br>
+[SIGMA **STORE**](https://sigma.mapree.dev/)
 
 ## Tech Stack
 
