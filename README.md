@@ -36,6 +36,7 @@
 ![vercel](https://img.shields.io/badge/-Vercel-2d333b?style=for-the-badge&logo=vercel)
 ![render](https://img.shields.io/badge/-Render-2d333b?style=for-the-badge&logo=render)
 ![supabase](https://img.shields.io/badge/-Supabase-2d333b?style=for-the-badge&logo=supabase)
+![turborepo](https://img.shields.io/badge/-TURBOREPO-2d333b?style=for-the-badge&logo=turborepo)
 
 ## Social Links
 
