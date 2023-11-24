@@ -37,6 +37,8 @@
 ![render](https://img.shields.io/badge/-Render-2d333b?style=for-the-badge&logo=render)
 ![supabase](https://img.shields.io/badge/-Supabase-2d333b?style=for-the-badge&logo=supabase)
 ![turborepo](https://img.shields.io/badge/-TURBOREPO-2d333b?style=for-the-badge&logo=turborepo)
+![prettier](https://img.shields.io/badge/-ESLINT-2d333b?style=for-the-badge&logo=eslint)
+![fivem](https://img.shields.io/badge/-FIVEM-2d333b?style=for-the-badge&logo=fivem)
 
 ## Social Links
 
