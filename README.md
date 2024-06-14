@@ -52,7 +52,7 @@
   <a href="https://www.instagram.com/mapreedev/" target="_blank">
      <img src="https://img.shields.io/badge/-instagram-2d333b?style=for-the-badge&logo=instagram"/>
   </a>
-  <a href="https://portfolio.mapree.com.br/" target="_blank">
+  <a href="https://www.mapree.dev/cases" target="_blank">
      <img src="https://img.shields.io/badge/-portfolio-2d333b?style=for-the-badge"/>
   </a>
 </p>
